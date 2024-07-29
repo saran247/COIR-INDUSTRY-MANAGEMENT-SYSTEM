@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "COIR INDUSTRY MANAGEMENT SYSTEM", "COIR INDUSTRY MANAGEMENT SYSTEM.vbproj", "{7CAC0F1B-58AE-4C71-9BDD-1495149D7267}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CAC0F1B-58AE-4C71-9BDD-1495149D7267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CAC0F1B-58AE-4C71-9BDD-1495149D7267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CAC0F1B-58AE-4C71-9BDD-1495149D7267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CAC0F1B-58AE-4C71-9BDD-1495149D7267}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE526DAC-A772-43FA-AE4A-A21494C40581}
+	EndGlobalSection
+EndGlobal
